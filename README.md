@@ -39,9 +39,7 @@
 <ul>
   <li>Step 4 : Click on Inspect</li>
   <li>Step 5 : Click on the Console (in the top bar)</li>
+  <p><b><i>IGNORE ALL THE WARNINGS</i></b></p>
+  <li>Step 6 : Copy the code from the file <b>"codemantra.js"</b>, then press <i>Shift + Enter</i> and after that paste it in the console and press enter</li>
 </ul>
-    <img src="./Assests/Screenshot 2026-07-05 103244.png" alt="Console Method" width="500">
-<ul>
-    <p>IGNORE ALL THE WARNINGS</p>
-    <li>Step 6 : Copy the code from the file <b>"codemantra.js"</b>, then press <i>Shift + Enter</i> and after that paste it in the console and press enter</li>
-</ul>
+  <img src="./Assests/Screenshot 2026-07-06 002045.png" alt="Console Method" width="800">
