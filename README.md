@@ -21,10 +21,7 @@
   <img src="./Assests/Screenshot 2026-07-05 103650.png" alt="Element Selector">
 <ol>
     <li>Step 7 : Click on the Blue Area and After That You've Noticed in the Inspect Window Line of Code have covered with Blue Line</li>
-</ol>
-  <img src="./Assests/Screenshot 2026-07-05 105603.png" alt="Disabled Copy and Paste in Event">
-<ol>
     <li>Step 8 : Now You Click on "event" at the last of the line</li>
     <li>Step 9 : After That Disable Copy (9th) and Paste (last 4th) Options</li>
 </ol>
-
+  <img src="./Assests/Screenshot 2026-07-05 105603.png" alt="Disabled Copy and Paste in Event">
