@@ -43,3 +43,11 @@
   <li>Step 6 : Copy the code from the file <b>"codemantra.js"</b>, then press <i>Shift + Enter</i> and after that paste it in the console and press enter</li>
 </ul>
   <img src="./Assests/Screenshot 2026-07-06 002045.png" alt="Console Method" width="800">
+
+
+<h2>Disclaimer</h2>
+<p>This tool is intended for educational purposes only. Use it responsibly and ensure you understand the code you are copying and pasting.</p>
+<br>
+<h3>Thank You For Using CodeMantra!, Hope So You Enjoy It!</h3>
+<br>
+<h2>Author : Aneesh Kumar Yadav</h2>
