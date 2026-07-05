@@ -8,5 +8,6 @@
   <li>Step 1 : Install Firefox Browser (if it's already installed then ignore)</li>
   <li>Step 2 : Login and open your code problem</li>
   <li>Step 3 : Right Click on the Problem Statement </li>
+  <img src="Screenshot 2026-07-05 102548.png" alt="Referencing_Screenshot" width="800">
+  li>Step 4 : Click on Inspect Element </li>
 </ol>
-<img src="Screenshot 2026-07-05 101935.png" alt="Screenshot 2026-07-05 101935" width="600">
